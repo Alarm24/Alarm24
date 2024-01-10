@@ -5,7 +5,7 @@ Senior student at Chulalongkorn University
 ------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My resume](http://https://github.com/Alarm24/Alarm24/blob/main/Resume.pdf)
+* 🖥️  See my portfolio at [My resume](Resume.pdf)
 * ✉️  You can contact me at [saharat.ping.w@gmail.com](mailto:saharat.ping.w@gmail.com)
 
 ### Skills
