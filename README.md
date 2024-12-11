@@ -5,7 +5,7 @@ Senior student at Chulalongkorn University
 ------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my CV at [CV](http://https://github.com/Alarm24/Alarm24/blob/main/%5BCV%5D%20Saharat_Wuthipracharat.pdf)
+* 🖥️  See my CV at [CV](https://github.com/Alarm24/Alarm24/blob/main/%5BCV%5D%20Saharat_Wuthipracharat.pdf)
 * ✉️  You can contact me at [saharat.ping.w@gmail.com](mailto:saharat.ping.w@gmail.com)
 
 
