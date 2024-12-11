@@ -5,7 +5,7 @@ Senior student at Chulalongkorn University
 ------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my cv at [My cv]([CV] Saharat_Wuthipracharat.pdf)
+* 🖥️  See my cv at [CV]()
 * ✉️  You can contact me at [saharat.ping.w@gmail.com](mailto:saharat.ping.w@gmail.com)
 
 
